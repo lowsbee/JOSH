@@ -8,7 +8,7 @@
     height: 100%;
     z-index: -99;
     position: absolute;
-    background-image: url(img/bgm.jpg);
+    background-image: url(bgm.jpg);
     background-size: cover;
 }
 
@@ -71,7 +71,7 @@
     font-weight: 500;
 }
 .messinco0{
-    background-image: url(img/messinco0.png);
+    background-image: url(messinco0.png);
     background-repeat: no-repeat;
     width: 18px;
     height: 18px;
@@ -80,7 +80,7 @@
     top: 2px;
 }
 .messinco1{
-    background-image: url(img/messinco1.png);
+    background-image: url(messinco1.png);
     background-repeat: no-repeat;
     width: 18px;
     height: 18px;
@@ -89,7 +89,7 @@
     top: 2px;
 }
 .messinco2{
-    background-image: url(img/messinco2.png);
+    background-image: url(messinco2.png);
     background-repeat: no-repeat;
     width: 18px;
     height: 18px;
@@ -98,7 +98,7 @@
     top: 2px;
 }
 .messinco3{
-    background-image: url(img/messinco3.png);
+    background-image: url(messinco3.png);
     background-repeat: no-repeat;
     width: 18px;
     height: 14px;
@@ -107,7 +107,7 @@
     top: 3px;
 }
 .messinco4{
-    background-image: url(img/messinco4.png);
+    background-image: url(messinco4.png);
     background-repeat: no-repeat;
     width: 18px;
     height: 20px;
@@ -116,7 +116,7 @@
     left: 2px;
 }
 .messinco5{
-    background-image: url(img/messinco5.png);
+    background-image: url(messinco5.png);
     background-repeat: no-repeat;
     width: 18px;
     height: 16px;
